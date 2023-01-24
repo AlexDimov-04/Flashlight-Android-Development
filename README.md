@@ -7,6 +7,15 @@ More about the topic: https://developer.android.com/reference/android/hardware/c
 
 # Look-through-steps-for-building-the-app
 
+---ACTION---
+
+![image](https://user-images.githubusercontent.com/106152399/214319049-9c894f3f-1030-4aee-bfd8-703a54da8606.png)
+
+
+![image](https://user-images.githubusercontent.com/106152399/214318919-2a91572c-2924-47fb-b3c9-3ef28d41f016.png)
+
+
+
 ----------MainActivity.java----------
 
 1) We use package com.example.flashlight and import the additional libraries for it and then create a Main Activity class declare 4 variables(layout, CameraManager, cameraid, boolean state=false(by default))
